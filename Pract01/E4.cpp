@@ -32,7 +32,8 @@ int main()
             }
             else
             {
-                cout << "caracter especial :" << tester << "\n";
+                if (!letter == '\t' || !letter == ' ' || !letter == '\n')
+                    cout << "caracter especial :" << tester << "\n";
             }
             text.clear();
         }
