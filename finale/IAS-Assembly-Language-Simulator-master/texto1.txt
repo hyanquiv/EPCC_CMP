@@ -1,0 +1,13 @@
+0 1 a 
+1 -2 b
+2 c
+3 4
+4 10
+5 INICIO
+6 cargar M(0)
+7 sumar M(1)
+8 sumar |M(1)|
+9 cargar MQ,M(4)
+10 multiplicar M(3)
+11 guardar M(2)
+12 FIN
